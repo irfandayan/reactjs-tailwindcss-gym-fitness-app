@@ -6,6 +6,7 @@
 <ul>
 <li>React.js</li>
 <li>TypeScript</li>
+<li>TailwindCSS</li>
 <li>Former Motion</li>
 <li>React Hook Form</li>
 <li>Anchor Link Smooth Scroll</li>
