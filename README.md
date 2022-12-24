@@ -1,6 +1,6 @@
-<h1><a href=""> Live Site </a></h1>
+<h1><a href="https://unique-fudge-739bac.netlify.app/"> Live Site </a></h1>
 
-<h2>MERN Stack - Project Managment APP</h2>
+<h2>Gym Fitness App - React + Typescript</h2>
 
 <h4>Built in:</h4>
 <ul>
