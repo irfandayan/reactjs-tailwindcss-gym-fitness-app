@@ -1,4 +1,4 @@
-<h1><a href="https://unique-fudge-739bac.netlify.app/"> Live Site </a></h1>
+<h1><a href="https://evogymapp.netlify.app/"> Live Site </a></h1>
 
 <h2>Gym Fitness App - React + Typescript</h2>
 
